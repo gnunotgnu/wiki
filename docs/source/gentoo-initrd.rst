@@ -1,4 +1,5 @@
-**initrd Gentoo unpack**
+initrd Gentoo unpack
+====================
 
 Use xzcat for unpack:
 
